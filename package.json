@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  },
+  "name": "entregableclase6",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanIgnacio25/Coder.House.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanIgnacio25/Coder.House/issues"
+  },
+  "homepage": "https://github.com/JuanIgnacio25/Coder.House#readme"
+}
